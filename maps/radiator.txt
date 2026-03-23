@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXX
+X   X   X   X   X   X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X X X X X X X X X X
+X X   X   X   X   X X
+XXXXXXXXXXXXXXXXXXXXX
+start 17, 8

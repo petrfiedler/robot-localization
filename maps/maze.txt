@@ -1,0 +1,26 @@
+XXXXXXXXXXXXXXXXXXXXXXXXX
+X     X     X     X     X
+X XXXXX XXXXX XXXXX XXXXX
+X     X     X     X     X
+XXXXX XXXXX XXXXX XXXXX X
+X     X     X     X     X
+X XXXXX XXXXX XXXXX XXXXX
+X     X     X     X     X
+XXXXX XXXXX XXXXX XXXXX X
+X                       X
+X XXXXX XXXXX XXXXX XXXXX
+X     X     X     X     X
+XXXXX XXXXX XXXXX XXXXX X
+X                       X
+XXXXX XXXXX XXXXX XXXXX X
+X     X     X     X     X
+X XXXXX XXXXX XXXXX XXXXX
+X           X     X     X
+XXXXX XXXXX XXXXX XXXXX X
+X     X     X           X
+X XXXXX XXXXX XXXXX XXXXX
+X     X     X     X     X
+XXXXX XXXXX XXXXX XXXXX X
+X     X     X     X     X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+start 1, 15

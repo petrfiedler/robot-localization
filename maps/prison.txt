@@ -1,0 +1,16 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+XXXX XXXXXXX XXXXXXX XXXXXXX XXXXXXX XXXXXXX XXXXXXX XXXX
+X                                                       X
+XXXX XXXXXXX XXXXXXX XXXXXXX XXXXXXX XXXXXXX XXXXXXX XXXX
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+X       X       X       X       X       X       X       X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+start 11, 26

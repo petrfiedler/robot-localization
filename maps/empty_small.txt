@@ -1,0 +1,12 @@
+XXXXXXXXXXX
+X         X
+X         X
+X         X
+X         X
+X         X
+X         X
+X         X
+X         X
+X         X
+XXXXXXXXXXX
+start 9, 7
